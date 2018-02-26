@@ -1,0 +1,1 @@
+include ':com.phponacid.dialer', ':com.phponacid.common', ':com.phponacid.phone.common', ':com.phponacid.contacts.common'
